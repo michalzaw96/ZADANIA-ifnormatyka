@@ -1,0 +1,2 @@
+Lista=[1,5,8,2,3]
+Print(sorted(lista))
